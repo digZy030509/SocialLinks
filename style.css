@@ -18,7 +18,7 @@ body {
 }
 /* style the content */
 .container {
-  width: 30%;
+  width: 35%;
   background: var(--grey-800);
   padding: 30px;
   border-radius: 10px;
